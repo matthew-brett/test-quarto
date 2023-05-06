@@ -1,0 +1,6 @@
+
+::: {.callout-note}
+
+A note
+
+:::
