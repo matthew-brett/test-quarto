@@ -1,2 +1,3 @@
+# The book
 
-This is the title: {{< meta title >}}.
+Some text

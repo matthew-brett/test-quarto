@@ -1,0 +1,7 @@
+# Preface 2 {.unnumbered}
+
+# Preface 2 subsection {#sec-pre2}
+
+Some text refering to this section: @sec-pre2.
+
+Also refer to previous page section: @sec-pre1

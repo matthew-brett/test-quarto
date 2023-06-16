@@ -1,0 +1,3 @@
+# A chapter {#sec-chap1}
+
+This refers to first preface: @sec-pre1
